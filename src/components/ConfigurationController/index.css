@@ -1,0 +1,27 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.configuration-contoller-container {
+  background-color: #475569;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.configuration-contoller-heading {
+  color: #f1f5f9;
+  margin-bottom: 5px;
+}
+.input {
+  margin: 5px;
+}
+.label {
+  color: #f1f5f9;
+  margin: 5px;
+}
